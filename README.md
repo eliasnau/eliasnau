@@ -20,17 +20,15 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:elias.nau@outlook.de">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://eliasnau.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
+
+</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/en_35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22953084" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22953084" height="30" width="40" /></a>
+<a href="https://github.con/eliasnau/eliasbau/issues" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="30" width="40" /></a>
+</p>
 
  <hr/>
  
