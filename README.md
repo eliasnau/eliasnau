@@ -25,9 +25,10 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/en_35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22953084" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22953084" height="30" width="40" /></a>
-<a href="https://github.com/eliasnau/eliasnau/issues" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="30" width="40" /></a>
+<a href="https://twitter.com/en_35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/22953084" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22953084" height="40" width="40" /></a>
+<a href="https://github.com/eliasnau/eliasnau/issues" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="40" width="40" /></a>
+<a href="https://rick.nerial.uk/video.mp4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="en35" height="40" width="40" /></a>
 </p>
 
  <hr/>
