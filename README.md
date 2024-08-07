@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an URL Shortener**
+ 🔭 I’m currently working on **realtime Chat App**
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Sockets**
 
 💬 Ask me about **anything [here](https://github.com/eliasnau/eliasnau/pulls)**
 
